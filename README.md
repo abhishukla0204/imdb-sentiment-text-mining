@@ -24,7 +24,7 @@ This is a **supervised binary classification** problem in the **Text Mining** do
 
 ---
 
-## 🔧 Preprocessing Pipeline
+## Preprocessing Pipeline
 
 1. Duplicate removal (418 duplicates → 49,582 reviews)
 2. HTML tag stripping via regex
@@ -105,7 +105,7 @@ The notebook generates 4 visualisation sets:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Python 3.8+**
 - pandas, numpy — data handling
@@ -123,7 +123,4 @@ The notebook generates 4 visualisation sets:
 
 ---
 
-## Author
-
-**Abhinav Shukla**  
 
